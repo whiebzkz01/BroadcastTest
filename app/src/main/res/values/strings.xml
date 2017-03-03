@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">BroadcastTest</string>
+=======
+    <string name="app_name">HappyWeather</string>
+>>>>>>> e5950b24645015ad7ef223a775e2f0f4e733b1a4
+</resources>
